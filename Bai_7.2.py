@@ -1,4 +1,4 @@
-#Tinh ket qua 2
+#Bai_7.2:Tinh ket qua 2
 result = 1 + 2
 print('result =',result)
 original_result = result
